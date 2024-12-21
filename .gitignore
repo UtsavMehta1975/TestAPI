@@ -1,0 +1,13 @@
+﻿# Ignore Visual Studio files
+.vs/
+*.vscode
+
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.user
+*.suo
+*.Backup
